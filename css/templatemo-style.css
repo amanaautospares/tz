@@ -11,8 +11,8 @@ body
 		font-weight: 300;
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 		height: auto;
-                width: auto;
-		position: absolute;
+                max-width: 500px;
+		
 	}
 
 a {

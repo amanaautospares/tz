@@ -12,6 +12,7 @@ body
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 		height: auto;
                 width: auto;
+		position: absolute;
 	}
 
 a {

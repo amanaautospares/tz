@@ -12,7 +12,7 @@ body
 		overflow-x: hidden; /* prevent horizontal scrollbar from appearing */
 		height: auto;
                 width: auto;
-		
+		max-width: 500px;
 	}
 
 a {
